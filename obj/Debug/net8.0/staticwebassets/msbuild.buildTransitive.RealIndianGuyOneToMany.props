@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RealIndianGuyOneToMany.props" />
+</Project>
